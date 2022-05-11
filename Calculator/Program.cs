@@ -18,5 +18,6 @@ namespace Calculator
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Calculator());
         }
+
     }
 }
